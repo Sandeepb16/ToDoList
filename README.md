@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sandeepb16/ToDoList/blob/project/img/DisplayWebsite.png" alt="demo-image">
+  <img src="https://github.com/Sandeepb16/ToDoList/blob/main/img/DisplayWebsite.png" alt="demo-image">
 </p>
 
 # To-Do-List
