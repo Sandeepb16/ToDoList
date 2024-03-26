@@ -9,10 +9,7 @@ This app helps you manage your tasks, making life easier and less stressful.
 - Add and delete tasks
 - Mark tasks as completed or incomplete
 
-## Installation
-__Note:__ The installation instructions will depend on the specific technology stack used to develop the application. Please refer to the relevant documentation for specific instructions.
-
-## Here is a general example of installation instructions:
+## Installation:
 Clone the repository using Git:
 
 `git clone https://github.com/Sandeepb16/ToDoList.git`
